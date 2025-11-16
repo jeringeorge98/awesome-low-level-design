@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/LLDRunner.ts",
   "scripts": {
-    "dev": "tsx src/LLDRunner.ts",
+    "dev": "npx tsx src/LLDRunner.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

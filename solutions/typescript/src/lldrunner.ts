@@ -1,4 +1,4 @@
-import ParkingLotDemo from "./ParkingLot/ParkingLotDemo";
+import ParkingLotDemo from "./ParkingLot/ParkingLot";
 import StackOverflowDemo from "./StackOverflow/StackOverflowDemo";
 import VendingMachineDemo from "./VendingMachine/VendingMachineDemo";
 import LoggingFrameworkDemo from "./LoggingFramework/LoggingFrameworkDemo";
